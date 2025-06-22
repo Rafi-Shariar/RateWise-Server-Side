@@ -1,0 +1,4 @@
+.env
+.vercel
+firbase_admin_serviceKey.json
+node_modules
